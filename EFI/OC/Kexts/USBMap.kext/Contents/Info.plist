@@ -35,7 +35,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>DAAAAA==</data>
+				<data>CwAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>POT1</key>
@@ -92,37 +92,37 @@
 						<key>Comment</key>
 						<string>Front USB 3.2 Type A, 3.0 personality, LEFT</string>
 					</dict>
-					<key>PO11</key>
+					<key>PRT11</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
 						<data>CwAAAA==</data>
 						<key>Comment</key>
-						<string>Internal bluetooth</string>
+						<string>JUSB</string>
 					</dict>
-					<key>PO12</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>port</key>
-						<data>DAAAAA==</data>
-						<key>Comment</key>
-						<string>RGB lighting controls</string>
-					</dict>
-					<key>PO10</key>
+					<key>PRT10</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
 						<data>CgAAAA==</data>
 						<key>Comment</key>
-						<string>rear top left type A, both 2.0 and 3.0 personality</string>
+						<string>Rear Type-A, USB 2.0</string>
+					</dict>
+					<key>PRT9</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>CQAAAA==</data>
+						<key>Comment</key>
+						<string>Rear Type-A, USB 2.0</string>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac19,1</string>
 		</dict>
 		<key>GP13 - XHC0 - rear</key>
 		<dict>
@@ -137,7 +137,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>BwAAAA==</data>
+				<data>BAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>PRT2</key>
@@ -147,25 +147,16 @@
 						<key>port</key>
 						<data>AgAAAA==</data>
 						<key>Comment</key>
-						<string>Upper middle type A 2.0 personality</string>
+						<string>Rear Type-A, USB 3.2 Gen 1</string>
 					</dict>
-					<key>PRT6</key>
+					<key>PRT4</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>BgAAAA==</data>
+						<data>BAAAAA==</data>
 						<key>Comment</key>
-						<string>Upper middle type A 3.0 personality</string>
-					</dict>
-					<key>PRT5</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>BQAAAA==</data>
-						<key>Comment</key>
-						<string>Rear Type-A, 3.0 personality</string>
+						<string>Rear Type-A, USB 3.2 Gen 2</string>
 					</dict>
 					<key>PRT1</key>
 					<dict>
@@ -174,7 +165,7 @@
 						<key>port</key>
 						<data>AQAAAA==</data>
 						<key>Comment</key>
-						<string>Rear Type-A, 2.0 personality</string>
+						<string>Rear Type-A, USB 3.2 Gen 1</string>
 					</dict>
 					<key>PRT3</key>
 					<dict>
@@ -183,21 +174,12 @@
 						<key>port</key>
 						<data>AwAAAA==</data>
 						<key>Comment</key>
-						<string>rear type C 2.0 personality</string>
-					</dict>
-					<key>PRT7</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>port</key>
-						<data>BwAAAA==</data>
-						<key>Comment</key>
-						<string>rear type C 3.0 personality</string>
+						<string>Rear Type-C, USB 3.2 Gen 2</string>
 					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacPro7,1</string>
+			<string>iMac19,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
